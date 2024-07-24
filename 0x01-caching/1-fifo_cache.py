@@ -1,4 +1,5 @@
-rst-In First-Out caching module.
+#!/usr/bin/env python3
+"""First-In First-Out caching module.
 """
 from collections import OrderedDict
 
