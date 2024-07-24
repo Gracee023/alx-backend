@@ -77,7 +77,6 @@ Must return the value in self.cache_data linked to key.
 If key is None or if the key doesn’t exist in self.cache_data, return None.
 
 Repo:
-
 GitHub repository: alx-backend
 Directory: 0x01-caching
 File: 1-fifo_cache.py
