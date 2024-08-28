@@ -37,7 +37,6 @@ mandatory
 Download, extract, and compile the latest stable Redis version (higher than 5.0.7 - https://redis.io/downloads/):
 
 Repo:
-
 GitHub repository: alx-backend
 Directory: 0x03-queuing_system_in_js
 File: README.md, dump.rdb
@@ -83,7 +82,6 @@ Requirements:
 Use callbacks for any of the operation, we will look at async operations later
 
 Repo:
-
 GitHub repository: alx-backend
 Directory: 0x03-queuing_system_in_js
 File: 1-redis_op.js
